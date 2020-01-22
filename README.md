@@ -24,9 +24,9 @@ For this assignment we were tasked to
 
 Both data challenges required submissions that were evaluated on the overall accuracy between the predicted label and the ground truth label. Any model can be developed to complete the task. 
 
-The first data challenge was completed after building a convolutional neural network using TensorFlow 93% public score.
+The first data challenge was completed after building a convolutional neural network using TensorFlow 93% public score. You can see the Kaggle data challenge here [](https://www.kaggle.com/c/fall-2018-stat-441841-data-challenge-1).
 
-The second data challenge was completed using K nearest neighbors with 97% public score.
+The second data challenge was completed using K nearest neighbors with 97% public score. You can see the Kaggle data challenge [here](https://www.kaggle.com/c/fall-2018-stat-441841-data-challenge-2).
 
 ## Final Project
 
